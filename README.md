@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+I created this project on November 29, 2020.
 
 ### Project Title
-Replace the Project Title
+Project Title: Udacity Nanodegree Programming for Data Science with Python
 
 ### Description
-Describe what your project is about and what it does
+For the Bike Share project, I used Python to explore data related to bikeshare systems in three major US cities: Chicago, New York City, and Washington. I wrote code to compute some interesting statistics from the data. 
 
 ### Files used
-Include the files used
+The files used were:
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I consulted Saurav's GitHub: https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
