@@ -9,10 +9,9 @@ For the Bike Share project, I used Python to explore data related to bikeshare s
 
 ### Files used
 The files used were:
-washington.csv
-new_york_city.csv
-chicago.csv
+n\ washington.csv
+n\ new_york_city.csv
+n\ chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 I consulted Saurav's GitHub: https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
