@@ -1,6 +1,7 @@
 ### Created by Rachel Shan
 This repository contains projects for the Udacity Nanodegree Programming for Data Science with Python course
 ------------------------------------------
+------------------------------------------
 
 ### Date created
 I created this project on November 29, 2020.
