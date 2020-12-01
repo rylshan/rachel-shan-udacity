@@ -13,5 +13,8 @@ washington.csv ,
 new_york_city.csv ,
 chicago.csv
 
+###Programming language
+This project was written in Python and uses the pandas and numpy libraries.
+
 ### Credits
 I consulted Saurav's GitHub: https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
